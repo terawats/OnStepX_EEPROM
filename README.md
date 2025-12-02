@@ -1,3 +1,9 @@
+# OnStepX_EEPROM
+
+OnStepX_EEPROM are forked from OnStepX Telescope Controller by custom code to support to store a telescope position on EEPROM.
+By this support, mount position are memorized afetr power off. EEPROM was used is AT24C32 and connected by I2C on DS3231 RTC Real Module.
+
+-------------------------------
 OnStepX Telescope Controller
 ===========================
 
